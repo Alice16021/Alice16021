@@ -2,7 +2,7 @@
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e apaixonada pela área de tecnologia, com gosto por resolver problemas reais.
 
-Estudo Segurança da Informação há mais de 5 anos, aprofundando ao longo do tempo meus conhecimentos em softwares para computação forense, cibersegurança e 
+Estudo Segurança da Informação há mais de 5 anos, aprofundando ao longo do tempo meus conhecimentos em softwares para computação forense, cibersegurança e pentest.
 
 Atualmente, estou direcionando meus estudos para aplicações Full Stack, banco de dados e segurança aplicada.
 
@@ -28,7 +28,7 @@ Tecnologias e conhecimentos em:
 
 - Python
 
-- Shell 
+- Shell/ Bash
 
 - Fundamentos de Backend
 
