@@ -1,3 +1,4 @@
+
 👩🏽‍💻Olá! Eu sou a Alice.
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e apaixonada pela área de tecnologia, com gosto por resolver problemas reais.
@@ -16,6 +17,10 @@ Atualmente, estou direcionando meus estudos para aplicações Full Stack, banco 
 - Inglês intermediário (Cultura Inglesa)
 
 - Cursos complementares na área de tecnologia (IT Specialist, Hardware e outros)
+
+![Certificado IT Security Specialist](https://github.com/user-attachments/assets/27d2130f-8793-412c-bef4-ac5208c2aee9)
+
+
 
 
 💻 Habilidades Técnicas
