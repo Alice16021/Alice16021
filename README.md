@@ -20,6 +20,7 @@ Atualmente, estou direcionando meus estudos para aplicações Full Stack, banco 
 
 ![Certificado IT Security Specialist](https://github.com/user-attachments/assets/27d2130f-8793-412c-bef4-ac5208c2aee9)
 
+[Certificado de Suporte Técnico.pdf](https://github.com/user-attachments/files/25390694/Certificado.de.Suporte.Tecnico.pdf)
 
 
 
