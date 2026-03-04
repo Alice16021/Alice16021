@@ -46,8 +46,8 @@ Atualmente, estou direcionando meus estudos para aplicações **Full Stack**, **
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alice16021&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice16021&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 ---
