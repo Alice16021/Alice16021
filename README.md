@@ -1,86 +1,64 @@
 
-👩🏽‍💻Olá! Eu sou a Alice.
+# 👩🏽‍💻 Alice
 
-Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e apaixonada pela área de tecnologia, com gosto por resolver problemas reais.
+🎯 Desenvolvedora em formação com foco em Cibersegurança e aplicações Full Stack.
 
-Estudo Segurança da Informação há mais de 5 anos, aprofundando ao longo do tempo meus conhecimentos em softwares para computação forense, cibersegurança e pentest.
+Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, apaixonada por tecnologia e resolução de problemas reais.
 
-Atualmente, estou direcionando meus estudos para aplicações Full Stack, banco de dados e segurança aplicada.
-
-
-🎓 Formação & Conhecimentos
-
-- Desenvolvimento de Software Multiplataforma
-
-- Técnico em Administração — FIEC
-
-- Inglês intermediário (Cultura Inglesa)
-
-- Cursos complementares na área de tecnologia (IT Specialist, Hardware e outros)
-
-![Certificado IT Security Specialist](https://github.com/user-attachments/assets/27d2130f-8793-412c-bef4-ac5208c2aee9)
-
-[Certificado de Suporte Técnico.pdf](https://github.com/user-attachments/files/25390694/Certificado.de.Suporte.Tecnico.pdf)
+Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundamento em:
+- Computação Forense
+- Cibersegurança
+- Pentest
 
 
+---
 
-💻 Habilidades Técnicas
+### 💻 Minhas Habilidades Técnicas
 
-Tecnologias e conhecimentos em:
-
-- Lógica de Programação
-
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-
-- Python
-
-- Shell/ Bash
-
-- Fundamentos de Backend
-
-- Git & Github
-
-- Segurança da Informação
-
-
-🚀 Foco atual de evolução
-
-- Cibersegurança aplicada ao desenvolvimento
-
-- Desenvolvimento Full Stack
-
-- Modelagem e gestão de bancos de dados
-
-- Construção de projetos reais para portfólio
-
-🧪 Projetos Iniciais
-
-Desenvolvimento de páginas web institucionais em HTML
-
-Criação de um software simples para automatizar confirmações de consultas
-
-(pretendo aprimorar e publicar os projetos em breve)
-
-
-🌟 Soft Skills
-
-Responsabilidade e organização
-
-Liderança e proatividade
-
-Comunicação clara
-
-Facilidade de aprendizado
-
-Trabalho sob pressão
-
-Essas competências contribuem para meu crescimento como uma profissional comprometida, resiliente e orientada à melhoria contínua.
-
-
-
-
-<div>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🚀 Foco Atual de Evolução
+- 🛡️ Cibersegurança aplicada ao desenvolvimento
+- 🌐 Desenvolvimento Full Stack
+- 🗄️ Modelagem e gestão de bancos de dados
+- 🏗️ Construção de projetos reais para portfólio
+
+---
+
+### 🎓 Formação & Conhecimentos
+- 🎓 **Desenvolvimento de Software Multiplataforma** — FATEC
+- 📊 **Técnico em Administração** — FIEC
+- 🌎 **Inglês Intermediário** — Cultura Inglesa
+- 📜 **Certificações:** IT Specialist, Hardware, Suporte Técnico.
+
+---
+
+### 🌟 Soft Skills
+
+`Responsabilidade` `Organização` `Liderança` `Proatividade` `Comunicação Clara` `Facilidade de Aprendizado` `Trabalho sob Pressão`
+
+> *"Essas competências contribuem para meu crescimento como uma profissional comprometida, resiliente e orientada à melhoria contínua."*
+
+---
+
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
