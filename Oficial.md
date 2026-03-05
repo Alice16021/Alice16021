@@ -9,6 +9,33 @@ Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundament
 - Cibersegurança
 - Pentest
 
+Ferramentas:
+
+### 🔍 Computação Forense & Cyber Security Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=appveyor&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/FTK_Imager-2F2F2F?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Nmap-4F4F4F?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-2F2F2F?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+---
+<div align="left">
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=appveyor&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
+</div>
 
 ---
 
@@ -40,6 +67,11 @@ Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundament
 - 📊 **Técnico em Administração** — FIEC
 - 🌎 **Inglês Intermediário** — Cultura Inglesa
 - 📜 **Certificações:** IT Specialist, Hardware, Suporte Técnico.
+
+---
+
+### 🏆 Meus Troféus
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Alice16021&show_icons=true&theme=matrix)
 
 ---
 
