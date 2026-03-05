@@ -10,21 +10,31 @@ Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundament
 - Cibersegurança
 - Pentest
 
+Ferramentas:
+<div align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4F4F4F?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
+ <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
+entre outras
+  
+</div>
 
 ---
 
 ### 💻 Minhas Habilidades Técnicas
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security&logoColor=white" />
 </div>
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -54,8 +64,8 @@ Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundament
 
 ### 📫 Como me encontrar
 
-<div align="left">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/alice-maria-3426492b7" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:SEU_EMAIL_AQUI">
