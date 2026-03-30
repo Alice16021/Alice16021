@@ -52,8 +52,6 @@ entre outras
 - 🌎 **Inglês Intermediário** — Cultura Inglesa
 - 📜 **Certificações:** IT Specialist, Hardware, Suporte Técnico.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a50b0c61-9beb-4761-84f7-a51405719a1d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ---
 
 ### 🌟 Soft Skills
