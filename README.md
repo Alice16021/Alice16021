@@ -50,7 +50,7 @@ entre outras
 - 🎓 **Desenvolvimento de Software Multiplataforma** — FATEC
 - 📊 **Técnico em Administração** — FIEC
 - 🌎 **Inglês Intermediário** — Cultura Inglesa
-- 📜 **Certificações:** IT Specialist, Hardware, Suporte Técnico.
+- 📜 **Certificações:** Introduction to Cybersecurity (Cisco), IT Specialist, Hardware, Suporte Técnico.
 
 ---
 
