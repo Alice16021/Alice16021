@@ -5,7 +5,7 @@
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, apaixonada por tecnologia e resolução de problemas reais.
 
-Tenho mais de 5 anos de estudos em Segurança da Informação, com aprofundamento em:
+Tenho mais de 6 anos de estudos em Segurança da Informação, com aprofundamento em:
 - Computação Forense
 - Cibersegurança
 - Pentest
