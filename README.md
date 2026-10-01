@@ -1,7 +1,7 @@
 
 # 👩🏽‍💻 Alice
 
-🎯 Desenvolvedora em formação com foco em Cibersegurança e aplicações Full Stack.
+🎯 Desenvolvedora de Software em formação, com interesse em desenvolvimento, segurança da informação e análise de dados
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, apaixonada por tecnologia e resolução de problemas reais.
 
