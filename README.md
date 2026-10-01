@@ -5,19 +5,16 @@
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, apaixonada por tecnologia e resolução de problemas reais.
 
-Tenho mais de 6 anos de estudos em Segurança da Informação, com aprofundamento em:
-- Cibersegurança
-- Pentest
+---
+Tenho anos de estudos em Segurança da Informação, com aprofundamento em red teaming (testes ofensivos).
 
 Ferramentas:
 <div align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4F4F4F?style=for-the-badge&logo=nmap&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
- <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
 entre outras
   
@@ -25,22 +22,22 @@ entre outras
 
 ---
 
-### 💻 Minhas Habilidades Técnicas
+### 💻 Também tenho outros conhecimentos:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 Foco Atual de Evolução
 - 🛡️ Cibersegurança aplicada ao desenvolvimento
+- Data Science para segurança.
 - 🌐 Desenvolvimento Full Stack
-- 🗄️ Modelagem e gestão de bancos de dados
 - 🏗️ Construção de projetos reais para portfólio
 
 ---
