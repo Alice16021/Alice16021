@@ -49,8 +49,8 @@ entre outras
 - 🎓 **Desenvolvimento de Software Multiplataforma** — FATEC
 - 📊 **Técnico em Administração** — FIEC
 - 🌎 **Inglês Intermediário** — Cultura Inglesa
-- 📜 **Certificações:** Introduction to Cybersecurity (Cisco), IT Specialist, Hardware, Suporte Técnico, Networking Basics (Cisco).
-
+- 📜 **Certificações:** GenAI, Dados e Cyber (DIO bootcamp), Introduction to Cybersecurity (Cisco), IT Specialist, Hardware, Networking Basics (Cisco).
+  
 ---
 
 ### 🌟 Soft Skills
