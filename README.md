@@ -1,9 +1,7 @@
 
 # 👩🏽‍💻 Alice
 
-🎯 Desenvolvedora de Software em formação, com interesse em desenvolvimento, segurança da informação e análise de dados
-
-Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC, apaixonada por tecnologia e resolução de problemas reais.
+🎯 Desenvolvedora de Software em formação, com interesse em desenvolvimento, segurança da informação e análise de dados.
 
 ---
 Tenho anos de estudos em Segurança da Informação, com aprofundamento em red teaming (testes ofensivos).
